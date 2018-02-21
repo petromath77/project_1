@@ -1,2 +1,17 @@
-body {
+header {
   background-color: #ccc; }
+
+.sect_1 {
+  background-color: #f2f2; }
+
+footer {
+  background-color: #cdcd; }
+
+h1, h2 {
+  margin: 0; }
+
+header,
+section,
+footer {
+  padding: 40px 0;
+  text-align: center; }
